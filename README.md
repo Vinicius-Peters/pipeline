@@ -1,6 +1,6 @@
-# Pipeline ETL
+# ETL Pipeline 
 
-## Ferramentas Utilizadas :
+## Ferramentas Utilizadas:
 
 ###### Linux environment, Airflow, Docker, Python, AWS S3, AWS Glue and AWS Athena
 
@@ -19,4 +19,4 @@ Pipeline under development in order to get data from the data lake that is in an
 - Use of spark for data processing.
 - Use of AWS Ec2 for Clustering
 
-
+![Diagram](https://raw.githubusercontent.com/Vinicius-Peters/pipeline/main/Pipeline1.0.png)
