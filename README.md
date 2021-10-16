@@ -16,7 +16,7 @@ Pipeline under development in order to get data from the data lake that is in an
 - Script automation with Airflow
 
 ## Future Updates:
-- Use of spark for data processing.
+- Use of spark for data processing
 - Use of AWS Ec2 for Clustering
 
 ![Diagram](https://raw.githubusercontent.com/Vinicius-Peters/pipeline/main/Pipeline1.0.png)
