@@ -18,3 +18,5 @@ Pipeline under development in order to get data from the data lake that is in an
 ## Future Updates:
 - Use of spark for data processing.
 - Use of AWS Ec2 for Clustering
+
+
