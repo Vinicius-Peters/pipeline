@@ -19,4 +19,4 @@ Pipeline under development in order to get data from the data lake that is in an
 - Use of spark for data processing
 - Use of AWS Ec2 for Clustering
 
-![Diagram](https://raw.githubusercontent.com/Vinicius-Peters/pipeline/main/Pipeline1.0.png)
+![Diagram](https://raw.githubusercontent.com/Vinicius-Peters/pipeline/main/Pipeline-1.0.png)
