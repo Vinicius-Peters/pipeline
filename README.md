@@ -9,7 +9,7 @@ Pipeline under development in order to get data from the data lake that is in an
 
 ## What was done: 
 - Installation of Airflow on Docker in Linux environment.
-- Python script for extracting data from the data lake, necessary transformations and inserting data into the data lake
+- Python script for extracting data from the data lake, necessary transformations and inserting data into the data warehouse
 - AWS Glue for structuring tables and AWS Athena for queries.
 
 ## What needs to be done
