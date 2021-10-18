@@ -1,6 +1,6 @@
 # ETL Pipeline 
 
-## Ferramentas Utilizadas:
+## Tools used:
 
 ###### Linux environment, Airflow, Docker, Python, AWS S3, AWS Glue and AWS Athena
 
