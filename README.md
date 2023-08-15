@@ -15,7 +15,7 @@ Pipeline under development in order to get data from the data lake that is in an
 - Script automation with Airflow
 - AWS Glue for structuring tables and AWS Athena for queries
 - Python script for extracting data from the data lake, necessary transformations and inserting data into the data warehouse
-- 
+  
 ## Future Updates:
 - Use of AWS Ec2 for Clustering
 
