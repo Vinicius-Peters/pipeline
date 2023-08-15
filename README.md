@@ -8,8 +8,9 @@
 Pipeline under development in order to get data from the data lake that is in an S3 bucket, clean the data as needed using Python and then go up to the Data Warehouse that is in another S3 bucket and perform queries with AWS Athena and AWS Glue.
 
 ## What was done: 
+- Installation of Docker
 - Installation of Airflow on Docker
-
+  
 ## What needs to be done
 - Script automation with Airflow
 - AWS Glue for structuring tables and AWS Athena for queries
